@@ -1,0 +1,5 @@
+class Boosts{
+    constructor(){
+        
+    }
+}
